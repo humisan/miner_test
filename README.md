@@ -1,2 +1,2 @@
-# miner_test
-あ
+# MiningPlugins
+
